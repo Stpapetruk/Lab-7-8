@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "=== ЛАБОРАТОРНАЯ РАБОТА: УПРАВЛЕНИЕ СПИСКОМ ПРОЦЕССОВ ===" << std::endl;
+    std::cout << "=== УПРАВЛЕНИЕ СПИСКОМ ПРОЦЕССОВ ===" << std::endl;
     
     ProcessList processList;
     
