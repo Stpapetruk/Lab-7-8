@@ -1,5 +1,5 @@
-#ifndef PROCESS_LIST_H
-#define PROCESS_LIST_H
+#ifndef PROCESS-LIST_H
+#define PROCESS-LIST_H
 
 #include <string>
 
